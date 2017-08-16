@@ -3,7 +3,7 @@ import java.io.*;
 public class Calculator {
 	StreamTokenizer expr = new StreamTokenizer(System.in);
 	/*StreamTokenizer expr=new StreamTokenizer(new BufferedReader(new InputStreamReader                    
-            (System.expr)));*/
+            (System.in)));*/
 
 	
 	public void count() throws IOException{
